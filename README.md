@@ -1,6 +1,5 @@
 ## Threads
 
-### A new way of javascript
 
 ## Multithread-able approach 
 
